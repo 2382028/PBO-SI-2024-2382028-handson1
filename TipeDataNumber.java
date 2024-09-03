@@ -9,6 +9,6 @@ public class TipeDataNumber {
         float tipeDataFloat = 10.3F;
         double tipeDataDouble = 10.4d;
 
-        int totalGaji = 10_000_000;
+        int totalGaji = 10_000_000; //pake pemisah dan gabisa pake titik
     }
 }
