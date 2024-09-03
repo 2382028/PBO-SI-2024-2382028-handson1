@@ -21,7 +21,7 @@ public class MembuatVariabel {
         //kebab-case
         //snake-case
 
-        final String FULL_NAME = "Daniella Sabathini";
+        final String FULL_NAME = "Daniella Sabathini Rusdianto";
 
     }
 }
